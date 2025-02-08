@@ -7,8 +7,10 @@ Features include score tracking, game reset, and a responsive UI.
 
 📦 Installation
 
-1. Clone the repository: 
+1. Clone the repository:
+   
    git clone https://github.com/duypham250796/tic-tac-toe-game
+   
    cd tic-tac-toe
 
 3. Install dependencies: 
