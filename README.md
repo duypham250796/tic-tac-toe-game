@@ -1,8 +1,8 @@
 🕹️ Tic-Tac-Toe (React + TypeScript)
 
-   A simple Tic-Tac-Toe game built using ReactJS, TypeScript, and Tailwind CSS.
-   
-   Features include score tracking, game reset, and a responsive UI.
+      A simple Tic-Tac-Toe game built using ReactJS, TypeScript, and Tailwind CSS.
+      
+      Features include score tracking, game reset, and a responsive UI.
 
 🚀 Live Demo
 
