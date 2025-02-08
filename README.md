@@ -3,18 +3,18 @@ A simple Tic-Tac-Toe game built using ReactJS, TypeScript, and Tailwind CSS.
 Features include score tracking, game reset, and a responsive UI.
 
 🚀 Live Demo
-🔗
+🔗 https://tic-tac-toe-game-zeta-ten.vercel.app
 
 📦 Installation
 
 1. Clone the repository
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/duypham250796/tic-tac-toe-game
    cd tic-tac-toe
 
-2. Install dependencies
+3. Install dependencies
    npm install
 
-3. Run the development server
+4. Run the development server
    npm run dev
 
 🛠️ Tech Stack
